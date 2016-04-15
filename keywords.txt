@@ -3,6 +3,7 @@
 802
 855
 a
+abaddon
 acolyte
 ada
 afram
@@ -64,6 +65,7 @@ dalby
 dark
 darkmatter
 darkxm
+darsana
 data
 deaddrop
 deceit
@@ -106,6 +108,7 @@ green
 hajra
 hank
 hannah
+helios
 helios
 henry
 hidden
@@ -177,6 +180,7 @@ ni
 niantic
 numinous
 obscured
+obsidian
 obsidius
 oneiric
 operative
@@ -187,6 +191,7 @@ pandora
 parasite
 particle
 pattern
+persepolis
 phillips
 photint
 plasma
@@ -232,6 +237,7 @@ shaped
 shaper
 shapers
 shard
+shonin
 sigint
 signal
 signs

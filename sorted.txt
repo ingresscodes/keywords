@@ -3,6 +3,7 @@
 802
 855
 a
+abaddon
 abandon
 absent
 accept
@@ -49,14 +50,12 @@ byron
 calvin
 campbell
 capture
-capture
 carrie
 carroll
 cassandra
 cathexis
 cern
 change
-chaos
 chaos
 chaotic
 chapeau
@@ -76,7 +75,6 @@ collective
 comint
 complex
 condensate
-conflict
 conflict
 congo
 consequence
@@ -102,7 +100,7 @@ danger
 dark
 darkmatter
 darkxm
-data
+darsana
 data
 deaddrop
 deceit
@@ -121,7 +119,6 @@ devra
 die
 difficult
 discover
-discover
 discovery
 disorder
 distance
@@ -135,7 +132,6 @@ elint
 end
 enigma
 enlighten
-enlightened
 enlightened
 enlightenment
 enoch
@@ -192,7 +188,6 @@ hubert
 hubris
 hulong
 human
-human
 hunch
 hyper
 i
@@ -220,6 +215,7 @@ isobront
 ispirare
 jabberwocky
 jackland
+jahan
 jarvis
 johnson
 journey
@@ -256,7 +252,6 @@ message
 meta
 microdot
 mind
-mind
 minotaur
 mirror
 misty
@@ -286,6 +281,7 @@ now
 numinous
 nzeer
 obscured
+obsidian
 obsidius
 obstacle
 old
@@ -306,12 +302,12 @@ path
 pattern
 peace
 perfection
+persepolis
 perspective
 phillips
 photint
 plasma
 pmc
-portal
 portal
 portals
 potential
@@ -337,7 +333,6 @@ question
 react
 rebel
 recharge
-recharge
 recursion
 reduce
 reincarnate
@@ -349,8 +344,6 @@ report
 rescue
 residual
 resist
-resist
-resistance
 resistance
 resonance
 resonate
@@ -378,13 +371,12 @@ separate
 shape
 shaped
 shaper
-shaper
 shapers
 shard
 share
 shell
+shonin
 sigint
-signal
 signal
 signs
 simple
@@ -412,9 +404,9 @@ success
 susanna
 symbol
 symbols
+technology
 tenniel
 thought
-time
 time
 timezero
 together
@@ -447,7 +439,6 @@ win
 wolfe
 worth
 write
-xm
 xm
 yantra
 yeats

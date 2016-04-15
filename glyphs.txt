@@ -83,6 +83,7 @@ improve
 impure
 inside
 interrupt
+jahan
 journey
 knowledge
 lead
@@ -159,6 +160,7 @@ strong
 structure
 struggle
 success
+technology
 thought
 time
 together
