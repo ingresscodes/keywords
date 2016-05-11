@@ -13,6 +13,7 @@ alexander
 algorithm
 alignment
 amongus
+antimagnus
 artifact
 artist
 augusta
@@ -261,6 +262,7 @@ symbol
 symbols
 syphax
 tenniel
+them
 time
 timezero
 transpose
