@@ -8,6 +8,7 @@ acolyte
 ada
 afram
 agent
+ai
 alaric
 alexander
 algorithm
@@ -111,7 +112,6 @@ hajra
 hank
 hannah
 helios
-helios
 henry
 hidden
 higgs
@@ -140,6 +140,7 @@ isobront
 ispirare
 jabberwocky
 jackland
+jahan
 jarvis
 johnson
 katelena
@@ -290,6 +291,7 @@ write
 xm
 yantra
 yeats
+your
 yuen
 yuri
 zurich
