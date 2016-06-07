@@ -276,6 +276,7 @@ ultra
 urban
 urbdrone
 veritas
+verity
 verum
 vi
 victor

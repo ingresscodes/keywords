@@ -431,6 +431,7 @@ urbdrone
 us
 use
 veritas
+verity
 verum
 vi
 victor
