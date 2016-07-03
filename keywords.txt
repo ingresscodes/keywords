@@ -274,8 +274,10 @@ turing
 tycho
 tyro
 ultra
+unknown
 urban
 urbdrone
+vadosity
 veritas
 verity
 verum
