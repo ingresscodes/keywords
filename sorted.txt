@@ -427,12 +427,10 @@ tycho
 tyro
 ultra
 unbounded
-unknown
 urban
 urbdrone
 us
 use
-vadosity
 veritas
 verity
 verum
