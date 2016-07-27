@@ -422,6 +422,7 @@ together
 transpose
 transposition
 truth
+tsukasa
 turing
 tycho
 tyro
