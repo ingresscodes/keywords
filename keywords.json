@@ -125,6 +125,12 @@
       "origin":""
     },
     {  
+      "word":"akira",
+      "length":5,
+      "atbash":null,
+      "origin":""
+    },
+    {  
       "word":"alaric",
       "length":6,
       "atbash":null,
@@ -3093,6 +3099,22 @@
       "word":"vi",
       "length":2,
       "atbash":null,
+      "origin":""
+    },
+    {  
+      "word":"vialux",
+      "length":6,
+      "atbash":[  
+        "vianoir"
+      ],
+      "origin":""
+    },
+    {  
+      "word":"vianoir",
+      "length":7,
+      "atbash":[  
+        "vialux"
+      ],
       "origin":""
     },
     {  

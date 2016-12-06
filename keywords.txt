@@ -9,6 +9,7 @@ ada
 afram
 agent
 ai
+akira
 alaric
 alexander
 algorithm
@@ -282,6 +283,8 @@ veritas
 verity
 verum
 vi
+vialux
+vianoir
 victor
 visur
 voynich

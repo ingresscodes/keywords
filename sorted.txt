@@ -16,6 +16,7 @@ after
 again
 agent
 ai
+akira
 alaric
 alexander
 algorithm
@@ -437,6 +438,8 @@ veritas
 verity
 verum
 vi
+vialux
+vianoir
 victor
 victory
 visur
