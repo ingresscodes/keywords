@@ -16,6 +16,7 @@ after
 again
 agent
 ai
+akira
 alaric
 alexander
 algorithm
@@ -432,10 +433,13 @@ urban
 urbdrone
 us
 use
+vault
 veritas
 verity
 verum
 vi
+vialux
+vianoir
 victor
 victory
 visur
