@@ -1,6 +1,286 @@
 {
   "wotds": [
     {
+      "wotd": "stickybeak",
+      "definition": "A busybody; meddler.",
+      "datereleasedUTC": "2017-01-14T23:28:15Z",
+      "length": 10,
+      "properWotD": "STICKYBEAK",
+      "preGit": false
+    },
+    {
+      "wotd": "fillip",
+      "definition": "Something that acts as a stimulus or boost to an activity.",
+      "datereleasedUTC": "2017-01-13T21:11:49Z",
+      "length": 6,
+      "properWotD": "FILLIP",
+      "preGit": false
+    },
+    {
+      "wotd": "thrasonical",
+      "definition": "Blustering, boastful.",
+      "datereleasedUTC": "2017-01-13T01:23:04Z",
+      "length": 11,
+      "properWotD": "THRASONICAL",
+      "preGit": false
+    },
+    {
+      "wotd": "veridical",
+      "definition": "Truthful; coinciding with reality.",
+      "datereleasedUTC": "2017-01-12T02:16:32Z",
+      "length": 9,
+      "properWotD": "VERIDICAL",
+      "preGit": false
+    },
+    {
+      "wotd": "neologism",
+      "definition": "A newly coined word or expression.",
+      "datereleasedUTC": "2017-01-10T13:14:10Z",
+      "length": 9,
+      "properWotD": "NEOLOGISM",
+      "preGit": false
+    },
+    {
+      "wotd": "zeroday",
+      "definition": "A vulnerability that is unknown to the user that can be exploited before the user becomes aware.",
+      "datereleasedUTC": "2017-01-08T19:14:46Z",
+      "length": 7,
+      "properWotD": "ZERO DAY (tech)",
+      "preGit": false
+    },
+    {
+      "wotd": "heuristicanalysis",
+      "definition": "An expert based analysis that determines the susceptibility of a system towards particular threat/risk using various decision rules or weighing methods.",
+      "datereleasedUTC": "2017-01-07T22:16:19Z",
+      "length": 17,
+      "properWotD": "HEURISTIC ANALYSIS",
+      "preGit": false
+    },
+    {
+      "wotd": "juicejacking",
+      "definition": "A cyber attack where malware might be installed on to, or data surreptitiously copied from, a device using a charging port that doubles as a data connection.",
+      "datereleasedUTC": "2017-01-07T17:18:28Z",
+      "length": 12,
+      "properWotD": "JUICE JACKING",
+      "preGit": false
+    },
+    {
+      "wotd": "eodermdrome",
+      "definition": "Where a word or phrase is formed from a set of letters or words in such a way that it has a non-planar spelling net.",
+      "datereleasedUTC": "2017-01-07T00:35:36Z",
+      "length": 11,
+      "properWotD": "EODERMDROME",
+      "preGit": false
+    },
+    {
+      "wotd": "backmasking",
+      "definition": "A recording technique in which a sound or message is recorded backward onto a track that is meant to be played forward.",
+      "datereleasedUTC": "2017-01-05T23:38:23Z",
+      "length": 11,
+      "properWotD": "BACKMASKING",
+      "preGit": false
+    },
+    {
+      "wotd": "semordnilap",
+      "definition": "A word, phrase, or sentence that has the property of forming another word, phrase, or sentence when its letters are reversed. A semordnilap differs from a palindrome in that the word or phrase resulting from the reversal is different from the original word or phrase.",
+      "datereleasedUTC": "2017-01-05T01:51:21Z",
+      "length": 11,
+      "properWotD": "SEMORDNILAP",
+      "preGit": false
+    },
+    {
+      "wotd": "stellenbosch",
+      "definition": "To relegate someone incompetent to a position of minimal responsibility.",
+      "datereleasedUTC": "2017-01-03T23:01:53Z",
+      "length": 12,
+      "properWotD": "STELLENBOSCH",
+      "preGit": false
+    },
+    {
+      "wotd": "intransigent",
+      "definition": "Unwilling to compromise.",
+      "datereleasedUTC": "2017-01-02T14:34:59Z",
+      "length": 12,
+      "properWotD": "INTRANSIGENT",
+      "preGit": false
+    },
+    {
+      "wotd": "repletion",
+      "definition": "The condition of being completely filled or satisfied.",
+      "datereleasedUTC": "2017-01-01T22:28:35Z",
+      "length": 9,
+      "properWotD": "REPLETION",
+      "preGit": false
+    },
+    {
+      "wotd": "soritesparadox",
+      "definition": "A paradoxical argument also known as little-by-little argument; a single item does not comprise a heap. Adding a second item does not comprise a heap, however, at some point, the collection of items becomes large enough to be called a heap, but there is apparently no definite point when this occurs.",
+      "datereleasedUTC": "2017-01-01T04:33:14Z",
+      "length": 14,
+      "properWotD": "SORITES PARADOX",
+      "preGit": false
+    },
+    {
+      "wotd": "referentialindeterminacy",
+      "definition": "Linguistic term referring to situations in which people vary in naming objects (do you call a drinking vessel a cup, mug, glass or...).",
+      "datereleasedUTC": "2016-12-31T17:10:01Z",
+      "length": 24,
+      "properWotD": "REFERENTIAL INDETERMINACY",
+      "preGit": false
+    },
+    {
+      "wotd": "diglossia",
+      "definition": "A situation in which two dialects or languages are used by a single language community.",
+      "datereleasedUTC": "2016-12-30T13:26:05Z",
+      "length": 9,
+      "properWotD": "DIGLOSSIA",
+      "preGit": false
+    },
+    {
+      "wotd": "idiolect",
+      "definition": "An individual's distinctive and unique use of language.",
+      "datereleasedUTC": "2016-12-29T02:35:50Z",
+      "length": 8,
+      "properWotD": "IDIOLECT",
+      "preGit": false
+    },
+    {
+      "wotd": "sociolect",
+      "definition": "A variety of a language used by a particular social group; a social dialect.",
+      "datereleasedUTC": "2016-12-28T19:19:06Z",
+      "length": 9,
+      "properWotD": "SOCIOLECT",
+      "preGit": false
+    },
+    {
+      "wotd": "eusociality",
+      "definition": "Form of sociality organization with characteristics including characteristics: cooperative offspring care, overlapping generations within a colony and a division of labor.",
+      "datereleasedUTC": "2016-12-27T11:48:11Z",
+      "length": 11,
+      "properWotD": "EUSOCIALITY",
+      "preGit": false
+    },
+    {
+      "wotd": "metasystemtransition",
+      "definition": "The emergence, through evolution, of a higher level of organization or control in a metasystem.",
+      "datereleasedUTC": "2016-12-26T00:24:12Z",
+      "length": 20,
+      "properWotD": "METASYSTEM TRANSITION",
+      "preGit": false
+    },
+    {
+      "wotd": "finitism",
+      "definition": "A philosophy of mathematics that accepts the existence only of finite mathematical objects.",
+      "datereleasedUTC": "2016-12-24T23:18:08Z",
+      "length": 8,
+      "properWotD": "FINITISM",
+      "preGit": false
+    },
+    {
+      "wotd": "hypercomputation",
+      "definition": "Models of computation that can provide outputs that are not Turing computable.",
+      "datereleasedUTC": "2016-12-23T12:17:24Z",
+      "length": 16,
+      "properWotD": "HYPERCOMPUTATION",
+      "preGit": false
+    },
+    {
+      "wotd": "kippage",
+      "definition": "An excited or irritated state.",
+      "datereleasedUTC": "2016-12-21T12:42:24Z",
+      "length": 7,
+      "properWotD": "KIPPAGE",
+      "preGit": false
+    },
+    {
+      "wotd": "alogism",
+      "definition": "An irrational statement or piece of reasoning.",
+      "datereleasedUTC": "2016-12-21T00:37:31Z",
+      "length": 7,
+      "properWotD": "ALOGISM",
+      "preGit": false
+    },
+    {
+      "wotd": "parol",
+      "definition": "Given or expressed orally; (of a document) agreed orally, or in writing but not under seal.",
+      "datereleasedUTC": "2016-12-19T13:21:08Z",
+      "length": 5,
+      "properWotD": "PAROL",
+      "preGit": false
+    },
+    {
+      "wotd": "emprise",
+      "definition": "An adventurous, daring, or chivalric enterprise.",
+      "datereleasedUTC": "2016-12-18T23:07:08Z",
+      "length": 7,
+      "properWotD": "EMPRISE",
+      "preGit": false
+    },
+    {
+      "wotd": "instauration",
+      "definition": "Renewal; renovation; restoration; an act of founding or establishing something.",
+      "datereleasedUTC": "2016-12-18T00:42:19Z",
+      "length": 12,
+      "properWotD": "INSTAURATION",
+      "preGit": false
+    },
+    {
+      "wotd": "egregious",
+      "definition": "Remarkable in a bad way; flagrant.",
+      "datereleasedUTC": "2016-12-17T00:59:26Z",
+      "length": 9,
+      "properWotD": "EGREGIOUS",
+      "preGit": false
+    },
+    {
+      "wotd": "galimatias",
+      "definition": "Confused or unintelligible talk.",
+      "datereleasedUTC": "2016-12-16T01:30:12Z",
+      "length": 10,
+      "properWotD": "GALIMATIAS",
+      "preGit": false
+    },
+    {
+      "wotd": "waterintegrator",
+      "definition": "An early analog computer built in the Soviet Union; it functioned by careful manipulation of water through a room full of interconnected pipes and pumps.",
+      "datereleasedUTC": "2016-12-14T21:52:02Z",
+      "length": 15,
+      "properWotD": "WATER INTEGRATOR",
+      "preGit": false
+    },
+    {
+      "wotd": "hollerithmachine",
+      "definition": "Type of electromechanical design that served as an information-processing resource throughout the early 20th century. The machine used a system of electrical and mechanical signals, and a set of wires positioned over pools of mercury, to incrementally count data on paper punch cards.",
+      "datereleasedUTC": "2016-12-13T12:33:01Z",
+      "length": 16,
+      "properWotD": "HOLLERITH MACHINE",
+      "preGit": false
+    },
+    {
+      "wotd": "tarnal",
+      "definition": "Damned.",
+      "datereleasedUTC": "2016-12-13T01:07:50Z",
+      "length": 6,
+      "properWotD": "TARNAL",
+      "preGit": false
+    },
+    {
+      "wotd": "variegated",
+      "definition": "Marked by variety.",
+      "datereleasedUTC": "2016-12-11T12:25:35Z",
+      "length": 10,
+      "properWotD": "VARIEGATED",
+      "preGit": false
+    },
+    {
+      "wotd": "symphysis",
+      "definition": "The process of growing together.",
+      "datereleasedUTC": "2016-12-10T02:41:12Z",
+      "length": 9,
+      "properWotD": "SYMPHYSIS",
+      "preGit": false
+    },
+    {
       "wotd": "stravage",
       "definition": "Roam.",
       "datereleasedUTC": "2016-12-09T02:18:36Z",
