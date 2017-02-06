@@ -1,6 +1,150 @@
 {
   "wotds": [
     {
+      "wotd": "haussmannize",
+      "definition": "To open out; to rebuild.",
+      "datereleasedUTC": "2017-02-05T18:26:20Z",
+      "length": 12,
+      "properWotD": "HAUSSMANNIZE",
+      "preGit": false
+    },
+    {
+      "wotd": "quivive",
+      "definition": "On the alert or lookout.",
+      "datereleasedUTC": "2017-02-05T00:39:50Z",
+      "length": 7,
+      "properWotD": "QUI VIVE",
+      "preGit": false
+    },
+    {
+      "wotd": "hegira",
+      "definition": "A journey or migration, especially when taken to escape an undesirable situation.",
+      "datereleasedUTC": "2017-02-03T13:04:50Z",
+      "length": 6,
+      "properWotD": "HEGIRA",
+      "preGit": false
+    },
+    {
+      "wotd": "pronunciamento",
+      "definition": "An official or authoritarian announcement.",
+      "datereleasedUTC": "2017-02-02T18:29:52Z",
+      "length": 14,
+      "properWotD": "PRONUNCIAMENTO",
+      "preGit": false
+    },
+    {
+      "wotd": "jurisprudence",
+      "definition": "The science or philosophy of law.",
+      "datereleasedUTC": "2017-02-02T01:49:58Z",
+      "length": 13,
+      "properWotD": "JURISPRUDENCE",
+      "preGit": false
+    },
+    {
+      "wotd": "bobbery",
+      "definition": "Squabble; commotion; confusion.",
+      "datereleasedUTC": "2017-01-31T02:41:02Z",
+      "length": 7,
+      "properWotD": "BOBBERY",
+      "preGit": false
+    },
+    {
+      "wotd": "asseverate",
+      "definition": "To declare earnestly or solemnly; affirm positively; aver.",
+      "datereleasedUTC": "2017-01-29T20:38:07Z",
+      "length": 10,
+      "properWotD": "ASSEVERATE",
+      "preGit": false
+    },
+    {
+      "wotd": "cunctation",
+      "definition": "The action or an instance of delaying; tardy action.",
+      "datereleasedUTC": "2017-01-27T02:27:51Z",
+      "length": 10,
+      "properWotD": "CUNCTATION",
+      "preGit": false
+    },
+    {
+      "wotd": "fard",
+      "definition": "To embellish or gloss over.",
+      "datereleasedUTC": "2017-01-26T02:32:36Z",
+      "length": 4,
+      "properWotD": "FARD",
+      "preGit": false
+    },
+    {
+      "wotd": "effrontery",
+      "definition": "Shameless boldness.",
+      "datereleasedUTC": "2017-01-24T22:50:51Z",
+      "length": 10,
+      "properWotD": "EFFRONTERY",
+      "preGit": false
+    },
+    {
+      "wotd": "etiolate",
+      "definition": "To cause to become weakened or sickly; drain of vigor.",
+      "datereleasedUTC": "2017-01-24T22:50:08Z",
+      "length": 8,
+      "properWotD": "ETIOLATE",
+      "preGit": false
+    },
+    {
+      "wotd": "laterigrade",
+      "definition": "Running sidewise or characterized by such running.",
+      "datereleasedUTC": "2017-01-24T01:41:51Z",
+      "length": 11,
+      "properWotD": "LATERIGRADE",
+      "preGit": false
+    },
+    {
+      "wotd": "gallimaufry",
+      "definition": "A confused jumble or medley of things.",
+      "datereleasedUTC": "2017-01-22T17:13:26Z",
+      "length": 11,
+      "properWotD": "GALLIMAUFRY",
+      "preGit": false
+    },
+    {
+      "wotd": "tzedakah",
+      "definition": "Justice or righteousness; giving charity.",
+      "datereleasedUTC": "2017-01-21T00:59:22Z",
+      "length": 8,
+      "properWotD": "TZEDAKAH",
+      "preGit": false
+    },
+    {
+      "wotd": "anthropicprinciple",
+      "definition": "The philosophical consideration that observations of the Universe must be compatible with the conscious and sapient life that observes it.",
+      "datereleasedUTC": "2017-01-19T23:00:59Z",
+      "length": 18,
+      "properWotD": "ANTHROPIC PRINCIPLE",
+      "preGit": false
+    },
+    {
+      "wotd": "habitue",
+      "definition": "A resident of or frequent visitor to a particular place.",
+      "datereleasedUTC": "2017-01-19T01:52:18Z",
+      "length": 7,
+      "properWotD": "HABITUE",
+      "preGit": false
+    },
+    {
+      "wotd": "leal",
+      "definition": "Loyal and honest.",
+      "datereleasedUTC": "2017-01-17T11:56:14Z",
+      "length": 4,
+      "properWotD": "LEAL",
+      "preGit": false
+    },
+    {
+      "wotd": "dulcify",
+      "definition": "To make agreeable.",
+      "datereleasedUTC": "2017-01-16T01:37:06Z",
+      "length": 7,
+      "properWotD": "DULCIFY",
+      "preGit": false
+    },
+    {
       "wotd": "stickybeak",
       "definition": "A busybody; meddler.",
       "datereleasedUTC": "2017-01-14T23:28:15Z",

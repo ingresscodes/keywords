@@ -11,6 +11,8 @@ acolyte
 ada
 adapt
 advance
+aegis
+aegisnova
 afram
 after
 again
@@ -229,6 +231,7 @@ ken
 kirlian
 klue
 knowledge
+kodama
 kureze
 lead
 legacy
@@ -265,6 +268,7 @@ mkoften
 mkultra
 modify
 mole
+mongus
 monopole
 more
 moyer
@@ -283,6 +287,7 @@ niantic
 no
 not
 nourish
+nova
 now
 numinous
 nzeer
@@ -324,6 +329,7 @@ presence
 present
 presquevu
 profile
+profiles
 progress
 progression
 pronoia
