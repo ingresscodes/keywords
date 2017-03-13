@@ -1,6 +1,214 @@
 {
   "wotds": [
     {
+      "wotd": "ignoratioelenchi",
+      "definition": "Missing the point; informal fallacy of presenting an argument that fails nonetheless to address the issue in question.",
+      "datereleasedUTC": "2017-03-13T00:31:31Z",
+      "length": 16,
+      "properWotD": "IGNORATIO ELENCHI",
+      "preGit": false
+    },
+    {
+      "wotd": "defacto",
+      "definition": "Practices that exist, are followed, even if not legally authorized; what happens in practice.",
+      "datereleasedUTC": "2017-03-11T22:56:41Z",
+      "length": 7,
+      "properWotD": "DE FACTO",
+      "preGit": false
+    },
+    {
+      "wotd": "dejure",
+      "definition": "Practices that are legally recognized by official laws; what happens according to law.",
+      "datereleasedUTC": "2017-03-10T12:24:33Z",
+      "length": 6,
+      "properWotD": "DE JURE",
+      "preGit": false
+    },
+    {
+      "wotd": "meritorious",
+      "definition": "Praiseworthy.",
+      "datereleasedUTC": "2017-03-09T01:41:39Z",
+      "length": 11,
+      "properWotD": "MERITORIOUS",
+      "preGit": false
+    },
+    {
+      "wotd": "multitudinous",
+      "definition": "Consisting of or containing many individuals or elements.",
+      "datereleasedUTC": "2017-03-05T01:57:38Z",
+      "length": 13,
+      "properWotD": "MULTITUDINOUS",
+      "preGit": false
+    },
+    {
+      "wotd": "froideur",
+      "definition": "Coolness or reserve between people.",
+      "datereleasedUTC": "2017-03-02T23:41:37Z",
+      "length": 8,
+      "properWotD": "FROIDEUR",
+      "preGit": false
+    },
+    {
+      "wotd": "bigiron",
+      "definition": "Large, expensive, ultra-fast computers used to process massive amounts of data.",
+      "datereleasedUTC": "2017-03-01T12:32:23Z",
+      "length": 7,
+      "properWotD": "BIG IRON (tech)",
+      "preGit": false
+    },
+    {
+      "wotd": "oscitant",
+      "definition": "Inattentive.",
+      "datereleasedUTC": "2017-02-28T12:32:56Z",
+      "length": 8,
+      "properWotD": "OSCITANT",
+      "preGit": false
+    },
+    {
+      "wotd": "animadversion",
+      "definition": "A comment or remark, especially a critical one.",
+      "datereleasedUTC": "2017-02-28T01:16:03Z",
+      "length": 13,
+      "properWotD": "ANIMADVERSION",
+      "preGit": false
+    },
+    {
+      "wotd": "unctuous",
+      "definition": "Displaying insincere earnestness or piousness.",
+      "datereleasedUTC": "2017-02-26T23:37:54Z",
+      "length": 8,
+      "properWotD": "UNCTUOUS",
+      "preGit": false
+    },
+    {
+      "wotd": "truculent",
+      "definition": "Eager to fight; destructive.",
+      "datereleasedUTC": "2017-02-26T00:35:37Z",
+      "length": 9,
+      "properWotD": "TRUCULENT",
+      "preGit": false
+    },
+    {
+      "wotd": "bipartitegraph",
+      "definition": "A graph in which a set of graph vertices can be divided into two independent sets, and no two graph vertices within the same set are adjacent; used in modeling relationships, especially between two entire separate classes of object.",
+      "datereleasedUTC": "2017-02-25T01:44:26Z",
+      "length": 14,
+      "properWotD": "BIPARTITE GRAPH",
+      "preGit": false
+    },
+    {
+      "wotd": "indefatigable",
+      "definition": "Persisting tirelessly.",
+      "datereleasedUTC": "2017-02-23T22:11:45Z",
+      "length": 13,
+      "properWotD": "INDEFATIGABLE",
+      "preGit": false
+    },
+    {
+      "wotd": "tergiversation",
+      "definition": "Evasion of straightforward action or clear-cut statement.",
+      "datereleasedUTC": "2017-02-22T22:39:00Z",
+      "length": 14,
+      "properWotD": "TERGIVERSATION",
+      "preGit": false
+    },
+    {
+      "wotd": "imprecate",
+      "definition": "To utter a curse.",
+      "datereleasedUTC": "2017-02-22T01:48:09Z",
+      "length": 9,
+      "properWotD": "IMPRECATE",
+      "preGit": false
+    },
+    {
+      "wotd": "tenacious",
+      "definition": "Tending to keep a firm hold of something; clinging or adhering closely.",
+      "datereleasedUTC": "2017-02-20T00:26:05Z",
+      "length": 9,
+      "properWotD": "TENACIOUS",
+      "preGit": false
+    },
+    {
+      "wotd": "yeasayer",
+      "definition": "A person with an optimistic and confident outlook.",
+      "datereleasedUTC": "2017-02-19T00:13:50Z",
+      "length": 8,
+      "properWotD": "YEASAYER",
+      "preGit": false
+    },
+    {
+      "wotd": "extremophile",
+      "definition": "Something that exists in extreme conditions.",
+      "datereleasedUTC": "2017-02-17T15:28:22Z",
+      "length": 12,
+      "properWotD": "EXTREMOPHILE",
+      "preGit": false
+    },
+    {
+      "wotd": "gnathonic",
+      "definition": "Behaving or done in an obsequious way in order to gain advantage.",
+      "datereleasedUTC": "2017-02-16T01:24:11Z",
+      "length": 9,
+      "properWotD": "GNATHONIC",
+      "preGit": false
+    },
+    {
+      "wotd": "parergon",
+      "definition": "A piece of work that is supplementary to or a byproduct of a larger work; embellishment.",
+      "datereleasedUTC": "2017-02-14T12:27:50Z",
+      "length": 8,
+      "properWotD": "PARERGON",
+      "preGit": false
+    },
+    {
+      "wotd": "diskstriping",
+      "definition": "Dividing a body of data into blocks and spreading the data blocks across multiple storage devices.",
+      "datereleasedUTC": "2017-02-12T17:16:42Z",
+      "length": 12,
+      "properWotD": "DISK STRIPING",
+      "preGit": false
+    },
+    {
+      "wotd": "futz",
+      "definition": "Waste time; idle or busy oneself aimlessly; deal with something in a trifling way; fiddle withsomething.",
+      "datereleasedUTC": "2017-02-12T02:07:29Z",
+      "length": 4,
+      "properWotD": "FUTZ",
+      "preGit": false
+    },
+    {
+      "wotd": "luculent",
+      "definition": "Clear in thought or expression.",
+      "datereleasedUTC": "2017-02-11T00:20:13Z",
+      "length": 8,
+      "properWotD": "LUCULENT",
+      "preGit": false
+    },
+    {
+      "wotd": "datalake",
+      "definition": "A storage repository that holds a vast amount of raw data in its native format until it is needed; a data lake uses a flat architecture to store datainstead of files and folders.",
+      "datereleasedUTC": "2017-02-09T12:29:14Z",
+      "length": 8,
+      "properWotD": "DATA LAKE",
+      "preGit": false
+    },
+    {
+      "wotd": "bema",
+      "definition": "A raised platform for speaking.",
+      "datereleasedUTC": "2017-02-07T21:30:58Z",
+      "length": 4,
+      "properWotD": "BEMA",
+      "preGit": false
+    },
+    {
+      "wotd": "mabble",
+      "definition": "To wrap up.",
+      "datereleasedUTC": "2017-02-07T01:59:58Z",
+      "length": 6,
+      "properWotD": "MABBLE",
+      "preGit": false
+    },
+    {
       "wotd": "haussmannize",
       "definition": "To open out; to rebuild.",
       "datereleasedUTC": "2017-02-05T18:26:20Z",
