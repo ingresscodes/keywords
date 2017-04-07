@@ -1082,6 +1082,14 @@
       "origin": ""
     },
     {
+      "word": "expand",
+      "length": 7,
+      "atbash": [
+        "contract"
+        ],
+      "origin": ""
+    },
+    {
       "word": "explore",
       "length": 7,
       "atbash": null,
