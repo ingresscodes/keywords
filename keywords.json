@@ -1743,6 +1743,14 @@
       ],
       "origin": ""
     },
+     {
+      "word": "light",
+      "length": 5,
+      "atbash": [
+        "dark"
+      ],
+      "origin": ""
+    },   
     {
       "word": "lightman",
       "length": 8,
