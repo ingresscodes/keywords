@@ -1,6 +1,270 @@
 {
   "wotds": [
     {
+      "wotd": "mengersponge",
+      "definition": "A fractal curve; it is a three-dimensional generalization of the Cantor set and Sierpinski carpet; it simultaneously exhibits an infinite surface area and zero volume.",
+      "datereleasedUTC": "2017-04-17T23:45:47Z",
+      "length": 12,
+      "properWotD": "MENGER SPONGE",
+      "preGit": false
+    },
+    {
+      "wotd": "apposite",
+      "definition": "Apt in the circumstances or in relation to something.",
+      "datereleasedUTC": "2017-04-16T19:20:29Z",
+      "length": 8,
+      "properWotD": "APPOSITE",
+      "preGit": false
+    },
+    {
+      "wotd": "wieldless",
+      "definition": "Not capable of being handled; unwieldy; unmanageable.",
+      "datereleasedUTC": "2017-04-16T03:37:15Z",
+      "length": 9,
+      "properWotD": "WIELDLESS",
+      "preGit": false
+    },
+    {
+      "wotd": "palimpsest",
+      "definition": "A manuscript page from which the text has been scraped or washed off so that the page can be reused for another document.",
+      "datereleasedUTC": "2017-04-14T23:55:56Z",
+      "length": 10,
+      "properWotD": "PALIMPSEST",
+      "preGit": false
+    },
+    {
+      "wotd": "vademecum",
+      "definition": "A handbook or guide that is kept constantly at hand for consultation.",
+      "datereleasedUTC": "2017-04-14T03:18:36Z",
+      "length": 9,
+      "properWotD": "VADE MECUM",
+      "preGit": false
+    },
+    {
+      "wotd": "rebarbative",
+      "definition": "Causing annoyance, irritation, or aversion; repellent.",
+      "datereleasedUTC": "2017-04-12T21:32:05Z",
+      "length": 11,
+      "properWotD": "REBARBATIVE",
+      "preGit": false
+    },
+    {
+      "wotd": "fanfaronade",
+      "definition": "Bragging; bravado; bluster.",
+      "datereleasedUTC": "2017-04-11T22:48:26Z",
+      "length": 11,
+      "properWotD": "FANFARONADE",
+      "preGit": false
+    },
+    {
+      "wotd": "satori",
+      "definition": "Sudden enlightenment.",
+      "datereleasedUTC": "2017-04-11T00:59:23Z",
+      "length": 6,
+      "properWotD": "SATORI",
+      "preGit": false
+    },
+    {
+      "wotd": "plisky",
+      "definition": "Mischievous; playful.",
+      "datereleasedUTC": "2017-04-09T21:30:55Z",
+      "length": 6,
+      "properWotD": "PLISKY",
+      "preGit": false
+    },
+    {
+      "wotd": "fusillade",
+      "definition": "A general discharge or outpouring of anything.",
+      "datereleasedUTC": "2017-04-09T01:55:00Z",
+      "length": 9,
+      "properWotD": "FUSILLADE",
+      "preGit": false
+    },
+    {
+      "wotd": "chatoyant",
+      "definition": "Changing in luster or color.",
+      "datereleasedUTC": "2017-04-07T23:08:19Z",
+      "length": 9,
+      "properWotD": "CHATOYANT",
+      "preGit": false
+    },
+    {
+      "wotd": "foray",
+      "definition": "To make one’s way into a new activity or area.",
+      "datereleasedUTC": "2017-04-06T15:46:11Z",
+      "length": 5,
+      "properWotD": "FORAY",
+      "preGit": false
+    },
+    {
+      "wotd": "aginner",
+      "definition": "A person who opposes a plan, proposed legislation, or any drastic change.",
+      "datereleasedUTC": "2017-04-05T11:05:53Z",
+      "length": 7,
+      "properWotD": "AGINNER",
+      "preGit": false
+    },
+    {
+      "wotd": "idempotence",
+      "definition": "An operation in mathematics and computer science, that can be applied multiple times without changing the result beyond the initial application",
+      "datereleasedUTC": "2017-04-04T11:02:56Z",
+      "length": 11,
+      "properWotD": "IDEMPOTENCE",
+      "preGit": false
+    },
+    {
+      "wotd": "quisling",
+      "definition": "A person who collaborates with an enemy.",
+      "datereleasedUTC": "2017-04-02T21:26:49Z",
+      "length": 8,
+      "properWotD": "QUISLING",
+      "preGit": false
+    },
+    {
+      "wotd": "hammingdistance",
+      "definition": "The number of points at which two corresponding pieces of data can be different; often used in evaluation of contrasting strings or pieces of data.",
+      "datereleasedUTC": "2017-04-02T02:03:42Z",
+      "length": 15,
+      "properWotD": "HAMMING DISTANCE (tech)",
+      "preGit": false
+    },
+    {
+      "wotd": "transpicuous",
+      "definition": "Clearly seen through or understood",
+      "datereleasedUTC": "2017-04-01T00:57:42Z",
+      "length": 12,
+      "properWotD": "TRANSPICUOUS",
+      "preGit": false
+    },
+    {
+      "wotd": "nescience",
+      "definition": "Lack of knowledge; ignorance.",
+      "datereleasedUTC": "2017-03-30T23:46:28Z",
+      "length": 9,
+      "properWotD": "NESCIENCE",
+      "preGit": false
+    },
+    {
+      "wotd": "dubiety",
+      "definition": "A doubtful matter; uncertainty.",
+      "datereleasedUTC": "2017-03-29T23:32:13Z",
+      "length": 7,
+      "properWotD": "DUBIETY",
+      "preGit": false
+    },
+    {
+      "wotd": "bromidic",
+      "definition": "Commonplace.",
+      "datereleasedUTC": "2017-03-28T21:22:36Z",
+      "length": 8,
+      "properWotD": "BROMIDIC",
+      "preGit": false
+    },
+    {
+      "wotd": "ameliorate",
+      "definition": "To make better or more tolerable.",
+      "datereleasedUTC": "2017-03-27T00:43:05Z",
+      "length": 10,
+      "properWotD": "AMELIORATE",
+      "preGit": false
+    },
+    {
+      "wotd": "petrinet",
+      "definition": "Modeling construct useful in data analysis, simulations, and other scenarios; uses elements and tokens to describe complex procedures and model the workings of a system.",
+      "datereleasedUTC": "2017-03-26T02:14:26Z",
+      "length": 8,
+      "properWotD": "PETRI NET",
+      "preGit": false
+    },
+    {
+      "wotd": "pacable",
+      "definition": "Easily appeased.",
+      "datereleasedUTC": "2017-03-24T23:59:55Z",
+      "length": 7,
+      "properWotD": "PACABLE",
+      "preGit": false
+    },
+    {
+      "wotd": "largiloquent",
+      "definition": "Talkative; full of words.",
+      "datereleasedUTC": "2017-03-24T01:16:02Z",
+      "length": 12,
+      "properWotD": "LARGILOQUENT",
+      "preGit": false
+    },
+    {
+      "wotd": "warrantise",
+      "definition": "An assurance.",
+      "datereleasedUTC": "2017-03-23T01:14:50Z",
+      "length": 10,
+      "properWotD": "WARRANTISE",
+      "preGit": false
+    },
+    {
+      "wotd": "superbity",
+      "definition": "Pride; arrogance.",
+      "datereleasedUTC": "2017-03-22T00:17:36Z",
+      "length": 9,
+      "properWotD": "SUPERBITY",
+      "preGit": false
+    },
+    {
+      "wotd": "cimmerian",
+      "definition": "Dark; gloomy.",
+      "datereleasedUTC": "2017-03-21T00:37:54Z",
+      "length": 9,
+      "properWotD": "CIMMERIAN",
+      "preGit": false
+    },
+    {
+      "wotd": "cruft",
+      "definition": "Badly designed, unnecessarily complicated, or unwanted code or software.",
+      "datereleasedUTC": "2017-03-19T22:10:04Z",
+      "length": 5,
+      "properWotD": "CRUFT",
+      "preGit": false
+    },
+    {
+      "wotd": "epicureanism",
+      "definition": "A philosophy that teaches the greatest good is to seek modest pleasures in order to attain a state of tranquillity via ataxia and aponia.",
+      "datereleasedUTC": "2017-03-18T16:49:34Z",
+      "length": 12,
+      "properWotD": "EPICUREANISM",
+      "preGit": false
+    },
+    {
+      "wotd": "aponia",
+      "definition": "The absence of pain.",
+      "datereleasedUTC": "2017-03-18T00:48:02Z",
+      "length": 6,
+      "properWotD": "APONIA",
+      "preGit": false
+    },
+    {
+      "wotd": "bludge",
+      "definition": "An easy task.",
+      "datereleasedUTC": "2017-03-16T21:45:24Z",
+      "length": 6,
+      "properWotD": "BLUDGE",
+      "preGit": false
+    },
+    {
+      "wotd": "harvardarchitecture",
+      "definition": "A computer system that contains two separate areas for commands or instructions and data.",
+      "datereleasedUTC": "2017-03-16T01:02:09Z",
+      "length": 19,
+      "properWotD": "HARVARD ARCHITECTURE (tech)",
+      "preGit": false
+    },
+    {
+      "wotd": "diachronic",
+      "definition": "Occurring over or changing with time.",
+      "datereleasedUTC": "2017-03-14T18:14:50Z",
+      "length": 10,
+      "properWotD": "DIACHRONIC",
+      "preGit": false
+    },
+    {
       "wotd": "ignoratioelenchi",
       "definition": "Missing the point; informal fallacy of presenting an argument that fails nonetheless to address the issue in question.",
       "datereleasedUTC": "2017-03-13T00:31:31Z",
