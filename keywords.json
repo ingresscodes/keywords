@@ -408,7 +408,9 @@
     {
       "word": "cassandra",
       "length": 9,
-      "atbash": null,
+      "atbash": [
+        "13magnus",
+        ]
       "origin": ""
     },
     {
@@ -510,7 +512,8 @@
       "atbash": [
         "unknown",
         "unclear",
-        "confusion"
+        "confusion",
+        "open"
       ],
       "origin": ""
     },
@@ -1080,6 +1083,14 @@
       "origin": ""
     },
     {
+      "word": "expand",
+      "length": 6,
+      "atbash": [
+        "contract"
+        ],
+      "origin": ""
+    },
+    {
       "word": "explore",
       "length": 7,
       "atbash": null,
@@ -1282,7 +1293,9 @@
     {
       "word": "hajra",
       "length": 5,
-      "atbash": null,
+      "atbash": [
+        "felicia"
+        ],
       "origin": ""
     },
     {
@@ -1733,6 +1746,14 @@
       ],
       "origin": ""
     },
+     {
+      "word": "light",
+      "length": 5,
+      "atbash": [
+        "dark"
+      ],
+      "origin": ""
+    },   
     {
       "word": "lightman",
       "length": 8,
@@ -2073,7 +2094,8 @@
       "word": "nzeer",
       "length": 5,
       "atbash": [
-        "human"
+        "human",
+        "shaper"
       ],
       "origin": ""
     },
@@ -2705,7 +2727,8 @@
       "word": "separate",
       "length": 8,
       "atbash": [
-        "combine"
+        "combine",
+        "together"
       ],
       "origin": ""
     },
@@ -2762,7 +2785,9 @@
     {
       "word": "shonin",
       "length": 6,
-      "atbash": null,
+      "atbash":  [
+        "stones"
+      ],
       "origin": ""
     },
     {
@@ -3140,7 +3165,9 @@
     {
       "word": "vi",
       "length": 2,
-      "atbash": null,
+      "atbash": [
+        "inveniri"
+      ],
       "origin": ""
     },
     {
