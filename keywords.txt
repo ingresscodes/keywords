@@ -247,6 +247,7 @@ lose
 loss
 lovelace
 luizi
+lux
 magic
 magnus
 mantra

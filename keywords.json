@@ -184,8 +184,8 @@
       "word": "answer",
       "length": 6,
       "atbash": [
-        "question",
-        "doubt"
+        "doubt",
+        "question"
       ],
       "origin": ""
     },
@@ -220,7 +220,8 @@
       "word": "attack",
       "length": 6,
       "atbash": [
-        "defend"
+        "defend",
+        "retreat"
       ],
       "origin": ""
     },
@@ -255,10 +256,10 @@
       "word": "balance",
       "length": 7,
       "atbash": [
-        "imbalance",
-        "unstable",
         "chaos",
-        "chaotic"
+        "chaotic",
+        "imbalance",
+        "unstable"
       ],
       "origin": ""
     },
@@ -387,9 +388,9 @@
       "word": "capture",
       "length": 7,
       "atbash": [
-        "release",
         "escape",
-        "liberate"
+        "liberate",
+        "release"
       ],
       "origin": ""
     },
@@ -437,8 +438,8 @@
       "length": 5,
       "atbash": [
         "balance",
-        "order",
-        "calm"
+        "calm",
+        "order"
       ],
       "origin": ""
     },
@@ -447,10 +448,10 @@
       "length": 7,
       "atbash": [
         "balance",
-        "order",
         "calm",
-        "orderly",
-        "lawful"
+        "lawful",
+        "order",
+        "orderly"
       ],
       "origin": ""
     },
@@ -483,7 +484,9 @@
     {
       "word": "civilization",
       "length": 12,
-      "atbash": null,
+      "atbash": [
+        "nature"
+      ],
       "origin": ""
     },
     {
@@ -508,9 +511,10 @@
       "word": "clear",
       "length": 5,
       "atbash": [
-        "unknown",
+        "confusion",
+        "open",
         "unclear",
-        "confusion"
+        "unknown"
       ],
       "origin": ""
     },
@@ -533,8 +537,8 @@
       "word": "cold",
       "length": 4,
       "atbash": [
-        "warm",
-        "hot"
+        "hot",
+        "warm"
       ],
       "origin": ""
     },
@@ -564,8 +568,8 @@
       "word": "complex",
       "length": 7,
       "atbash": [
-        "simple",
-        "easy"
+        "easy",
+        "simple"
       ],
       "origin": ""
     },
@@ -626,7 +630,9 @@
     {
       "word": "contract",
       "length": 8,
-      "atbash": null,
+      "atbash": [
+        "expand"
+      ],
       "origin": ""
     },
     {
@@ -653,6 +659,7 @@
       "word": "courage",
       "length": 7,
       "atbash": [
+        "cowardice",
         "fear"
       ],
       "origin": ""
@@ -697,9 +704,9 @@
       "word": "creativity",
       "length": 10,
       "atbash": [
-        "uncreative",
         "impotent",
-        "inept"
+        "inept",
+        "uncreative"
       ],
       "origin": ""
     },
@@ -749,8 +756,8 @@
       "word": "darkmatter",
       "length": 10,
       "atbash": [
-        "lightmatter",
-        "exoticmatter"
+        "exoticmatter",
+        "lightmatter"
       ],
       "origin": ""
     },
@@ -793,9 +800,9 @@
       "word": "deception",
       "length": 9,
       "atbash": [
-        "truth",
         "honesty",
-        "loyalty"
+        "loyalty",
+        "truth"
       ],
       "origin": ""
     },
@@ -817,8 +824,8 @@
       "word": "denial",
       "length": 6,
       "atbash": [
-        "acceptance",
-        "accept"
+        "accept",
+        "acceptance"
       ],
       "origin": ""
     },
@@ -882,9 +889,9 @@
       "word": "die",
       "length": 3,
       "atbash": [
+        "alive",
         "breathe",
-        "live",
-        "alive"
+        "live"
       ],
       "origin": ""
     },
@@ -900,8 +907,8 @@
       "word": "discover",
       "length": 8,
       "atbash": [
-        "hide",
-        "conceal"
+        "conceal",
+        "hide"
       ],
       "origin": ""
     },
@@ -995,9 +1002,9 @@
       "word": "enlighten",
       "length": 9,
       "atbash": [
-        "hide",
+        "conceal",
         "deceive",
-        "conceal"
+        "hide"
       ],
       "origin": ""
     },
@@ -1033,8 +1040,8 @@
       "word": "equal",
       "length": 5,
       "atbash": [
-        "unequal",
-        "differnt"
+        "differnt",
+        "unequal"
       ],
       "origin": ""
     },
@@ -1114,7 +1121,9 @@
     {
       "word": "farlowe",
       "length": 7,
-      "atbash": null,
+      "atbash": [
+        "nearhigh"
+      ],
       "origin": ""
     },
     {
@@ -1187,8 +1196,8 @@
       "word": "future",
       "length": 6,
       "atbash": [
-        "past",
-        "history"
+        "history",
+        "past"
       ],
       "origin": ""
     },
@@ -1244,8 +1253,8 @@
       "length": 10,
       "atbash": [
         "anarchy",
-        "resistance",
-        "opposition"
+        "opposition",
+        "resistance"
       ],
       "origin": ""
     },
@@ -1305,8 +1314,8 @@
       "word": "harm",
       "length": 4,
       "atbash": [
-        "heal",
-        "care"
+        "care",
+        "heal"
       ],
       "origin": ""
     },
@@ -1394,7 +1403,9 @@
     {
       "word": "hubris",
       "length": 6,
-      "atbash": null,
+      "atbash": [
+        "humility"
+      ],
       "origin": ""
     },
     {
@@ -1407,8 +1418,8 @@
       "word": "human",
       "length": 5,
       "atbash": [
-        "nzeer",
-        "alien"
+        "alien",
+        "nzeer"
       ],
       "origin": ""
     },
@@ -1428,9 +1439,9 @@
       "word": "i",
       "length": 1,
       "atbash": [
-        "you",
+        "us",
         "we",
-        "us"
+        "you"
       ],
       "origin": ""
     },
@@ -1483,8 +1494,8 @@
       "word": "individual",
       "length": 10,
       "atbash": [
-        "group",
         "all",
+        "group",
         "together"
       ],
       "origin": ""
@@ -1493,6 +1504,7 @@
       "word": "ingress",
       "length": 7,
       "atbash": [
+        "exit",
         "pokemon"
       ],
       "origin": ""
@@ -1666,9 +1678,9 @@
       "word": "knowledge",
       "length": 9,
       "atbash": [
-        "weakness",
         "ignorance",
-        "impotence"
+        "impotence",
+        "weakness"
       ],
       "origin": ""
     },
@@ -1728,8 +1740,8 @@
       "word": "life",
       "length": 4,
       "atbash": [
-        "die",
-        "death"
+        "death",
+        "die"
       ],
       "origin": ""
     },
@@ -1788,6 +1800,14 @@
       "origin": ""
     },
     {
+      "word": "lux",
+      "length": 3,
+      "atbash": [
+        "noir"
+      ],
+      "origin": ""
+    },
+    {
       "word": "magic",
       "length": 5,
       "atbash": null,
@@ -1822,16 +1842,18 @@
     {
       "word": "matter",
       "length": 6,
-      "atbash": null,
+      "atbash": [
+        "energy"
+      ],
       "origin": ""
     },
     {
       "word": "me",
       "length": 2,
       "atbash": [
-        "you",
+        "them",
         "us",
-        "them"
+        "you"
       ],
       "origin": ""
     },
@@ -1983,7 +2005,9 @@
     {
       "word": "nature",
       "length": 6,
-      "atbash": null,
+      "atbash": [
+        "civilization"
+      ],
       "origin": ""
     },
     {
@@ -2059,7 +2083,8 @@
       "length": 3,
       "atbash": [
         "past",
-        "present"
+        "present",
+        "then"
       ],
       "origin": ""
     },
@@ -2073,7 +2098,8 @@
       "word": "nzeer",
       "length": 5,
       "atbash": [
-        "human"
+        "human",
+        "shaper"
       ],
       "origin": ""
     },
@@ -2131,8 +2157,8 @@
       "word": "opening",
       "length": 7,
       "atbash": [
-        "closure",
-        "barrier"
+        "barrier",
+        "closure"
       ],
       "origin": ""
     },
@@ -2146,8 +2172,8 @@
       "word": "ordered",
       "length": 7,
       "atbash": [
-        "chaotic",
-        "chaos"
+        "chaos",
+        "chaotic"
       ],
       "origin": ""
     },
@@ -2155,8 +2181,8 @@
       "word": "other",
       "length": 5,
       "atbash": [
-        "similar",
-        "same"
+        "same",
+        "similar"
       ],
       "origin": ""
     },
@@ -2202,9 +2228,9 @@
       "word": "past",
       "length": 4,
       "atbash": [
-        "present",
+        "block",
         "now",
-        "block"
+        "present"
       ],
       "origin": ""
     },
@@ -2289,7 +2315,9 @@
     {
       "word": "potential",
       "length": 9,
-      "atbash": null,
+      "atbash": [
+        "kinetic"
+      ],
       "origin": ""
     },
     {
@@ -2324,9 +2352,9 @@
       "word": "present",
       "length": 7,
       "atbash": [
-        "past",
+        "absent",
         "now",
-        "absent"
+        "past"
       ],
       "origin": ""
     },
@@ -2445,7 +2473,9 @@
     {
       "word": "rebel",
       "length": 5,
-      "atbash": null,
+      "atbash": [
+        "empire"
+      ],
       "origin": ""
     },
     {
@@ -2500,8 +2530,8 @@
       "word": "repair",
       "length": 6,
       "atbash": [
-        "destroy",
-        "break"
+        "break",
+        "destroy"
       ],
       "origin": ""
     },
@@ -2570,7 +2600,8 @@
       "word": "retreat",
       "length": 7,
       "atbash": [
-        "advance"
+        "advance",
+        "attack"
       ],
       "origin": ""
     },
@@ -2705,7 +2736,9 @@
       "word": "separate",
       "length": 8,
       "atbash": [
-        "combine"
+        "combine",
+        "join",
+        "together"
       ],
       "origin": ""
     },
@@ -2774,7 +2807,9 @@
     {
       "word": "signal",
       "length": 6,
-      "atbash": null,
+      "atbash": [
+        "noise"
+      ],
       "origin": ""
     },
     {
@@ -2813,8 +2848,8 @@
       "word": "soul",
       "length": 4,
       "atbash": [
-        "mind",
-        "body"
+        "body",
+        "mind"
       ],
       "origin": ""
     },
@@ -2872,6 +2907,7 @@
       "word": "stay",
       "length": 4,
       "atbash": [
+        "go",
         "leave",
         "lose",
         "loss"
@@ -2887,7 +2923,9 @@
     {
       "word": "strategic",
       "length": 9,
-      "atbash": null,
+      "atbash": [
+        "tactical"
+      ],
       "origin": ""
     },
     {
@@ -2948,8 +2986,8 @@
       "word": "sustain",
       "length": 7,
       "atbash": [
-        "die",
-        "death"
+        "death",
+        "die"
       ],
       "origin": ""
     },
@@ -2987,8 +3025,8 @@
       "word": "them",
       "length": 4,
       "atbash": [
-        "we",
-        "us"
+        "us",
+        "we"
       ],
       "origin": ""
     },
@@ -3020,7 +3058,8 @@
       "word": "together",
       "length": 8,
       "atbash": [
-        "appart"
+        "appart",
+        "separate"
       ],
       "origin": ""
     },
@@ -3191,8 +3230,8 @@
       "word": "want",
       "length": 4,
       "atbash": [
-        "pursue",
-        "have"
+        "have",
+        "pursue"
       ],
       "origin": ""
     },
@@ -3200,8 +3239,8 @@
       "word": "war",
       "length": 3,
       "atbash": [
-        "peace",
-        "defend"
+        "defend",
+        "peace"
       ],
       "origin": ""
     },
@@ -3215,8 +3254,8 @@
       "word": "we",
       "length": 2,
       "atbash": [
-        "us",
-        "them"
+        "them",
+        "us"
       ],
       "origin": ""
     },
@@ -3288,8 +3327,8 @@
       "word": "you",
       "length": 3,
       "atbash": [
-        "me",
-        "i"
+        "i",
+        "me"
       ],
       "origin": ""
     },
