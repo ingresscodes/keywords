@@ -1,5 +1,373 @@
 [
   {
+    "wotd": "tristful",
+    "definition": "Melancholy.",
+    "datereleasedUTC": "2017-06-29T10:51:16Z",
+    "length": 8,
+    "properWotD": "TRISTFUL",
+    "preGit": false
+  },
+  {
+    "wotd": "prose",
+    "definition": "For oneself; on one's own behalf.",
+    "datereleasedUTC": "2017-06-28T10:22:45Z",
+    "length": 5,
+    "properWotD": "PRO SE",
+    "preGit": false
+  },
+  {
+    "wotd": "doublethink",
+    "definition": "The acceptance of two contradictory ideas or beliefs at the same time.",
+    "datereleasedUTC": "2017-06-26T10:16:07Z",
+    "length": 11,
+    "properWotD": "DOUBLETHINK",
+    "preGit": false
+  },
+  {
+    "wotd": "surcease",
+    "definition": "Stoppage, especially a temporary one.",
+    "datereleasedUTC": "2017-06-25T10:57:07Z",
+    "length": 8,
+    "properWotD": "SURCEASE",
+    "preGit": false
+  },
+  {
+    "wotd": "panegyrize",
+    "definition": "To praise highly.",
+    "datereleasedUTC": "2017-06-23T20:21:09Z",
+    "length": 10,
+    "properWotD": "PANEGYRIZE",
+    "preGit": false
+  },
+  {
+    "wotd": "estival",
+    "definition": "Pertaining or appropriate to summer.",
+    "datereleasedUTC": "2017-06-21T13:41:40Z",
+    "length": 7,
+    "properWotD": "ESTIVAL",
+    "preGit": false
+  },
+  {
+    "wotd": "pervade",
+    "definition": "To become diffused throughout every part of.",
+    "datereleasedUTC": "2017-06-20T19:54:44Z",
+    "length": 7,
+    "properWotD": "PERVADE",
+    "preGit": false
+  },
+  {
+    "wotd": "suigeneris",
+    "definition": "Unique; not like anything else.",
+    "datereleasedUTC": "2017-06-19T23:02:43Z",
+    "length": 10,
+    "properWotD": "SUI GENERIS",
+    "preGit": false
+  },
+  {
+    "wotd": "palabra",
+    "definition": "A word: talk, especially of an unnecessary, profuse, or idle nature; occasionally figurative.",
+    "datereleasedUTC": "2017-06-18T22:35:13Z",
+    "length": 7,
+    "properWotD": "PALABRA",
+    "preGit": false
+  },
+  {
+    "wotd": "wiegandinterface",
+    "definition": "A de facto wiring standard commonly used for interconnecting peripherals (iris recognition devices) to the rest of an electronic entry system.",
+    "datereleasedUTC": "2017-06-17T07:30:57Z",
+    "length": 16,
+    "properWotD": "WIEGAND INTERFACE",
+    "preGit": false
+  },
+  {
+    "wotd": "nugatory",
+    "definition": "Useless; futile.",
+    "datereleasedUTC": "2017-06-16T07:14:39Z",
+    "length": 8,
+    "properWotD": "NUGATORY",
+    "preGit": false
+  },
+  {
+    "wotd": "hysteronproteron",
+    "definition": "A figure of speech in which the natural or rational order of its terms is reversed; The logical fallacy of assuming as true and using as a premise a proposition that is yet to be proved.",
+    "datereleasedUTC": "2017-06-15T01:02:02Z",
+    "length": 16,
+    "properWotD": "HYSTERON PROTERON",
+    "preGit": false
+  },
+  {
+    "wotd": "facture",
+    "definition": "The act, process, or manner of making anything; construction.",
+    "datereleasedUTC": "2017-06-14T01:09:32Z",
+    "length": 7,
+    "properWotD": "FACTURE",
+    "preGit": false
+  },
+  {
+    "wotd": "quietus",
+    "definition": "A freeing from an obligation or responsibility.",
+    "datereleasedUTC": "2017-06-13T00:47:32Z",
+    "length": 7,
+    "properWotD": "QUIETUS",
+    "preGit": false
+  },
+  {
+    "wotd": "inhere",
+    "definition": "Exist essentially or permanently in.",
+    "datereleasedUTC": "2017-06-11T23:59:55Z",
+    "length": 6,
+    "properWotD": "INHERE",
+    "preGit": false
+  },
+  {
+    "wotd": "prodnose",
+    "definition": "An inquisitive person.",
+    "datereleasedUTC": "2017-06-11T01:19:56Z",
+    "length": 8,
+    "properWotD": "PRODNOSE",
+    "preGit": false
+  },
+  {
+    "wotd": "peri",
+    "definition": "A being, originally represented as evil but subsequently as a good or graceful genie or fairy.",
+    "datereleasedUTC": "2017-06-09T22:59:39Z",
+    "length": 4,
+    "properWotD": "PERI",
+    "preGit": false
+  },
+  {
+    "wotd": "inanition",
+    "definition": "Lack of mental or spiritual vigor.",
+    "datereleasedUTC": "2017-06-08T01:22:00Z",
+    "length": 9,
+    "properWotD": "INANITION",
+    "preGit": false
+  },
+  {
+    "wotd": "omphalos",
+    "definition": "The centre or hub of something; a stone artifact often used to mark the center.",
+    "datereleasedUTC": "2017-06-07T00:27:09Z",
+    "length": 8,
+    "properWotD": "OMPHALOS",
+    "preGit": false
+  },
+  {
+    "wotd": "operose",
+    "definition": "Diligent; requiring great effort.",
+    "datereleasedUTC": "2017-06-06T01:57:19Z",
+    "length": 7,
+    "properWotD": "OPEROSE",
+    "preGit": false
+  },
+  {
+    "wotd": "notabilia",
+    "definition": "Matters, events, or items worthy of note.",
+    "datereleasedUTC": "2017-06-04T22:05:16Z",
+    "length": 9,
+    "properWotD": "NOTABILIA",
+    "preGit": false
+  },
+  {
+    "wotd": "transitiverelation",
+    "definition": "A binary relation R over a set X is transitive if whenever an element a is related to an element b, and b is in turn related to an element c, then a is also related to c.",
+    "datereleasedUTC": "2017-06-02T10:00:57Z",
+    "length": 18,
+    "properWotD": "TRANSITIVE RELATION",
+    "preGit": false
+  },
+  {
+    "wotd": "serviceinsertion",
+    "definition": "A concept in virtualized networking where services can be inserted and removed at will.",
+    "datereleasedUTC": "2017-06-01T12:13:20Z",
+    "length": 16,
+    "properWotD": "SERVICE INSERTION (tech)",
+    "preGit": false
+  },
+  {
+    "wotd": "compathy",
+    "definition": "Shared feelings.",
+    "datereleasedUTC": "2017-05-31T11:34:03Z",
+    "length": 8,
+    "properWotD": "COMPATHY",
+    "preGit": false
+  },
+  {
+    "wotd": "skosh",
+    "definition": "A small amount.",
+    "datereleasedUTC": "2017-05-29T18:01:08Z",
+    "length": 5,
+    "properWotD": "SKOSH",
+    "preGit": false
+  },
+  {
+    "wotd": "collaborativeinnovationnetwork",
+    "definition": "A process in which multiple people contribute towards creating and developing new products, services, processes and solutions.",
+    "datereleasedUTC": "2017-05-28T20:19:39Z",
+    "length": 30,
+    "properWotD": "COLLABORATIVE INNOVATION  NETWORK(CoIN)",
+    "preGit": false
+  },
+  {
+    "wotd": "antipositivism",
+    "definition": "Belief within social science that the social realm is not subject to the same methods of investigation as the natural world.",
+    "datereleasedUTC": "2017-05-28T00:52:27Z",
+    "length": 14,
+    "properWotD": "ANTIPOSITIVISM",
+    "preGit": false
+  },
+  {
+    "wotd": "scrobble",
+    "definition": "An Internet slang term for using Web distributed data to find users that share common interests. Scrobble also may be used as a noun to refer to the data used for these purposes.",
+    "datereleasedUTC": "2017-05-27T02:48:53Z",
+    "length": 8,
+    "properWotD": "SCROBBLE (tech)",
+    "preGit": false
+  },
+  {
+    "wotd": "captious",
+    "definition": "Having an inclination to find faults, especially of a trivial nature.",
+    "datereleasedUTC": "2017-05-25T21:29:48Z",
+    "length": 8,
+    "properWotD": "CAPTIOUS",
+    "preGit": false
+  },
+  {
+    "wotd": "gesellschaft",
+    "definition": "An association of individuals for common goals linked by impersonal ties; characterized by impersonally contracted associations between persons.",
+    "datereleasedUTC": "2017-05-25T01:46:02Z",
+    "length": 12,
+    "properWotD": "GESELLSCHAFT",
+    "preGit": false
+  },
+  {
+    "wotd": "intelligentedge",
+    "definition": "A process where data is analyzed and aggregated in a spot close to where it is captured in a network; remote nodes of a system are empowered to do different kinds of data handling that have traditionally been handled at a central point.",
+    "datereleasedUTC": "2017-05-24T01:57:21Z",
+    "length": 15,
+    "properWotD": "INTELLIGENT EDGE (tech)",
+    "preGit": false
+  },
+  {
+    "wotd": "mumpsimus",
+    "definition": "A traditional custom or notion adhered to although shown to be unreasonable.",
+    "datereleasedUTC": "2017-05-23T00:04:35Z",
+    "length": 9,
+    "properWotD": "MUMPSIMUS",
+    "preGit": false
+  },
+  {
+    "wotd": "fauve",
+    "definition": "Vivid in color.",
+    "datereleasedUTC": "2017-05-22T00:46:23Z",
+    "length": 5,
+    "properWotD": "FAUVE",
+    "preGit": false
+  },
+  {
+    "wotd": "tourdeforce",
+    "definition": "An impressive performance or achievement that has been accomplished or managed with great skill.",
+    "datereleasedUTC": "2017-05-21T00:18:42Z",
+    "length": 11,
+    "properWotD": "TOUR de FORCE",
+    "preGit": false
+  },
+  {
+    "wotd": "redivivus",
+    "definition": "Revived or reborn.",
+    "datereleasedUTC": "2017-05-19T23:12:45Z",
+    "length": 9,
+    "properWotD": "REDIVIVUS",
+    "preGit": false
+  },
+  {
+    "wotd": "parisology",
+    "definition": "The use of equivocal or ambiguous words.",
+    "datereleasedUTC": "2017-05-18T23:40:58Z",
+    "length": 10,
+    "properWotD": "PARISOLOGY",
+    "preGit": false
+  },
+  {
+    "wotd": "triste",
+    "definition": "Wistful; sad.",
+    "datereleasedUTC": "2017-05-18T00:59:02Z",
+    "length": 6,
+    "properWotD": "TRISTE",
+    "preGit": false
+  },
+  {
+    "wotd": "florilegium",
+    "definition": "A compilation of excerpts from other writings.",
+    "datereleasedUTC": "2017-05-16T20:55:53Z",
+    "length": 11,
+    "properWotD": "FLORILEGIUM",
+    "preGit": false
+  },
+  {
+    "wotd": "excursus",
+    "definition": "An appendix or digression that contains further exposition of some point or topic.",
+    "datereleasedUTC": "2017-05-15T21:59:15Z",
+    "length": 8,
+    "properWotD": "EXCURSUS",
+    "preGit": false
+  },
+  {
+    "wotd": "indurate",
+    "definition": "Physically or morally hardened.",
+    "datereleasedUTC": "2017-05-15T00:46:43Z",
+    "length": 8,
+    "properWotD": "INDURATE",
+    "preGit": false
+  },
+  {
+    "wotd": "telematics",
+    "definition": "The branch of information technology that deals with the long-distance transmission of computerized information.",
+    "datereleasedUTC": "2017-05-13T22:22:22Z",
+    "length": 10,
+    "properWotD": "TELEMATICS",
+    "preGit": false
+  },
+  {
+    "wotd": "imprimatur",
+    "definition": "Sanction or approval; support.",
+    "datereleasedUTC": "2017-05-13T02:40:15Z",
+    "length": 10,
+    "properWotD": "IMPRIMATUR",
+    "preGit": false
+  },
+  {
+    "wotd": "saudade",
+    "definition": "A melancholy nostalgia for something that perhaps has not even happened. It often carries an assurance that this thing will never happen again.",
+    "datereleasedUTC": "2017-05-12T00:45:29Z",
+    "length": 7,
+    "properWotD": "SAUDADE",
+    "preGit": false
+  },
+  {
+    "wotd": "eternize",
+    "definition": "To prolong indefinitely.",
+    "datereleasedUTC": "2017-05-11T01:10:56Z",
+    "length": 8,
+    "properWotD": "ETERNIZE",
+    "preGit": false
+  },
+  {
+    "wotd": "holusbolus",
+    "definition": "All at once; altogether.",
+    "datereleasedUTC": "2017-05-09T23:01:50Z",
+    "length": 10,
+    "properWotD": "HOLUS-BOLUS",
+    "preGit": false
+  },
+  {
+    "wotd": "hypostatize",
+    "definition": "To treat or regard (a concept, idea, etc.) as a distinct substance or reality.",
+    "datereleasedUTC": "2017-05-09T11:10:36Z",
+    "length": 11,
+    "properWotD": "HYPOSTATIZE",
+    "preGit": false
+  },
+  {
     "wotd": "vincible",
     "definition": "Defeatable; capable of being overcome.",
     "datereleasedUTC": "2017-05-08T00:12:15Z",
