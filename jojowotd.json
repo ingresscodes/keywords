@@ -1,5 +1,581 @@
 [
   {
+    "wotd": "eurhythmic",
+    "definition": "Harmoniously ordered or proportioned.",
+    "datereleasedUTC": "2017-11-20T00:06:15Z",
+    "length": 10,
+    "properWotD": "EURHYTHMIC",
+    "preGit": false
+  },
+  {
+    "wotd": "proximity",
+    "definition": "Closeness.",
+    "datereleasedUTC": "2017-11-15T13:00:34Z",
+    "length": 9,
+    "properWotD": "PROXIMITY",
+    "preGit": false
+  },
+  {
+    "wotd": "senesce",
+    "definition": "To grow old or decay.",
+    "datereleasedUTC": "2017-11-10T13:46:19Z",
+    "length": 7,
+    "properWotD": "SENESCE",
+    "preGit": false
+  },
+  {
+    "wotd": "wegotism",
+    "definition": "Frequent use of the first person plural by a speaker or writer; habit of using “we” when referring to oneself.",
+    "datereleasedUTC": "2017-11-07T15:06:23Z",
+    "length": 8,
+    "properWotD": "WEGOTISM",
+    "preGit": false
+  },
+  {
+    "wotd": "clew",
+    "definition": "Something that guides through an intricate procedure or maze of difficulties.",
+    "datereleasedUTC": "2017-11-03T00:36:10Z",
+    "length": 4,
+    "properWotD": "CLEW",
+    "preGit": false
+  },
+  {
+    "wotd": "guisard",
+    "definition": "A person who wears a mask",
+    "datereleasedUTC": "2017-10-31T21:12:20Z",
+    "length": 7,
+    "properWotD": "GUISARD",
+    "preGit": false
+  },
+  {
+    "wotd": "causerie",
+    "definition": "An informal conversation.",
+    "datereleasedUTC": "2017-10-29T17:35:24Z",
+    "length": 8,
+    "properWotD": "CAUSERIE",
+    "preGit": false
+  },
+  {
+    "wotd": "rapprochement",
+    "definition": "An establishment or resumption of harmonious relations.",
+    "datereleasedUTC": "2017-10-27T00:32:26Z",
+    "length": 13,
+    "properWotD": "RAPPROCHEMENT",
+    "preGit": false
+  },
+  {
+    "wotd": "perlocutionaryact",
+    "definition": "A Speech action that produces an effect upon the listener, as in persuading, frightening, amusing, or causing the listener to act.",
+    "datereleasedUTC": "2017-10-24T03:04:00Z",
+    "length": 17,
+    "properWotD": "PERLOCUTIONARY ACT",
+    "preGit": false
+  },
+  {
+    "wotd": "pantophobia",
+    "definition": "A fear of everything.",
+    "datereleasedUTC": "2017-10-20T14:35:40Z",
+    "length": 11,
+    "properWotD": "PANTOPHOBIA",
+    "preGit": false
+  },
+  {
+    "wotd": "abstractionprinciple",
+    "definition": "Representing essential features without including background details or explanations; used to reduce complexity and allow efficient design and implementation of complex systems.",
+    "datereleasedUTC": "2017-10-18T14:49:02Z",
+    "length": 20,
+    "properWotD": "ABSTRACTION PRINCIPLE",
+    "preGit": false
+  },
+  {
+    "wotd": "tendentious",
+    "definition": "Expressing or intending to promote a particular cause or point of view.",
+    "datereleasedUTC": "2017-10-17T02:34:24Z",
+    "length": 11,
+    "properWotD": "TENDENTIOUS",
+    "preGit": false
+  },
+  {
+    "wotd": "microkernel",
+    "definition": "a piece of software or code that contains the near-minimum amount of functions and features required to run the most basic functions of a system.",
+    "datereleasedUTC": "2017-10-13T00:54:49Z",
+    "length": 11,
+    "properWotD": "MICROKERNEL",
+    "preGit": false
+  },
+  {
+    "wotd": "exclosure",
+    "definition": "An area from which intruders are excluded by fencing or other means.",
+    "datereleasedUTC": "2017-10-10T12:37:37Z",
+    "length": 9,
+    "properWotD": "EXCLOSURE",
+    "preGit": false
+  },
+  {
+    "wotd": "collogue",
+    "definition": "Talk confidentially or conspiratorially.",
+    "datereleasedUTC": "2017-10-07T22:32:01Z",
+    "length": 8,
+    "properWotD": "COLLOGUE",
+    "preGit": false
+  },
+  {
+    "wotd": "ensconce",
+    "definition": "To settle securely or snugly; to cover or shelter hide securely.",
+    "datereleasedUTC": "2017-10-05T21:52:06Z",
+    "length": 8,
+    "properWotD": "ENSCONCE",
+    "preGit": false
+  },
+  {
+    "wotd": "discursive",
+    "definition": "Jumping from topic to topic; rambling.",
+    "datereleasedUTC": "2017-10-02T11:47:53Z",
+    "length": 10,
+    "properWotD": "DISCURSIVE",
+    "preGit": false
+  },
+  {
+    "wotd": "aggiornamento",
+    "definition": "The act of bringing something up to date to meet current needs.",
+    "datereleasedUTC": "2017-09-29T17:40:40Z",
+    "length": 13,
+    "properWotD": "AGGIORNAMENTO",
+    "preGit": false
+  },
+  {
+    "wotd": "macarism",
+    "definition": "Beatitude; ascription of happiness to a person.",
+    "datereleasedUTC": "2017-09-28T12:25:41Z",
+    "length": 8,
+    "properWotD": "MACARISM",
+    "preGit": false
+  },
+  {
+    "wotd": "portentous",
+    "definition": "Being a grave or serious matter; eliciting amazement or wonder.",
+    "datereleasedUTC": "2017-09-26T11:06:29Z",
+    "length": 10,
+    "properWotD": "PORTENTOUS",
+    "preGit": false
+  },
+  {
+    "wotd": "elizaeffect",
+    "definition": "The tendency to unconsciously assume computer behaviors are analogous to human behaviors.",
+    "datereleasedUTC": "2017-09-22T22:12:55Z",
+    "length": 11,
+    "properWotD": "ELIZA EFFECT",
+    "preGit": false
+  },
+  {
+    "wotd": "idiorrhythmic",
+    "definition": "Self-regulating.",
+    "datereleasedUTC": "2017-09-21T00:45:29Z",
+    "length": 13,
+    "properWotD": "IDIORRHYTHMIC",
+    "preGit": false
+  },
+  {
+    "wotd": "remonstrate",
+    "definition": "To reason or plead in protest.",
+    "datereleasedUTC": "2017-09-19T10:58:51Z",
+    "length": 11,
+    "properWotD": "REMONSTRATE",
+    "preGit": false
+  },
+  {
+    "wotd": "prepense",
+    "definition": "Deliberate; intentional.",
+    "datereleasedUTC": "2017-09-17T21:30:17Z",
+    "length": 8,
+    "properWotD": "PREPENSE",
+    "preGit": false
+  },
+  {
+    "wotd": "antinome",
+    "definition": "Something that is contradictory or opposite to another; a logical contradiction.",
+    "datereleasedUTC": "2017-09-15T23:28:04Z",
+    "length": 8,
+    "properWotD": "ANTINOME",
+    "preGit": false
+  },
+  {
+    "wotd": "whataboutery",
+    "definition": "The technique or practice of responding to an accusation or difficult question by making a counter-accusation or raising a different issue.",
+    "datereleasedUTC": "2017-09-13T14:28:44Z",
+    "length": 12,
+    "properWotD": "WHATABOUTERY",
+    "preGit": false
+  },
+  {
+    "wotd": "diningphilosophers",
+    "definition": "A problem designed to illustrate the challenges of avoiding deadlock, a system state in which no progress is possible.",
+    "datereleasedUTC": "2017-09-11T00:00:57Z",
+    "length": 18,
+    "properWotD": "DINING PHILOSOPHERS PROBLEM",
+    "preGit": false
+  },
+  {
+    "wotd": "coalesce",
+    "definition": "To arise from the combination of distinct elements; to grow together; fuse.",
+    "datereleasedUTC": "2017-09-09T11:28:39Z",
+    "length": 8,
+    "properWotD": "COALESCE",
+    "preGit": false
+  },
+  {
+    "wotd": "divagate",
+    "definition": "To wander; stray.",
+    "datereleasedUTC": "2017-09-07T23:24:37Z",
+    "length": 8,
+    "properWotD": "DIVAGATE",
+    "preGit": false
+  },
+  {
+    "wotd": "scrupulous",
+    "definition": "Punctiliously exact : painstaking.",
+    "datereleasedUTC": "2017-09-07T00:11:04Z",
+    "length": 10,
+    "properWotD": "SCRUPULOUS",
+    "preGit": false
+  },
+  {
+    "wotd": "interstice",
+    "definition": "A space that intervenes between things; a short space of time between events.",
+    "datereleasedUTC": "2017-09-04T01:56:10Z",
+    "length": 10,
+    "properWotD": "INTERSTICE",
+    "preGit": false
+  },
+  {
+    "wotd": "aureate",
+    "definition": "Marked by grandiloquent and rhetorical style.",
+    "datereleasedUTC": "2017-09-02T20:00:43Z",
+    "length": 7,
+    "properWotD": "AUREATE",
+    "preGit": false
+  },
+  {
+    "wotd": "incogitant",
+    "definition": "Inconsiderate; not having the faculty of thought.",
+    "datereleasedUTC": "2017-08-31T22:12:37Z",
+    "length": 10,
+    "properWotD": "INCOGITANT",
+    "preGit": false
+  },
+  {
+    "wotd": "sensorfusion",
+    "definition": "Combining of sensory data or data derived from disparate sources such that the result has less uncertainty than would be possible when these sources are used individually.",
+    "datereleasedUTC": "2017-08-30T20:54:11Z",
+    "length": 12,
+    "properWotD": "SENSOR FUSION",
+    "preGit": false
+  },
+  {
+    "wotd": "transitive",
+    "definition": "Involving transition: intermediate, transitional.",
+    "datereleasedUTC": "2017-08-29T11:01:26Z",
+    "length": 10,
+    "properWotD": "TRANSITIVE",
+    "preGit": false
+  },
+  {
+    "wotd": "verisimilar",
+    "definition": "Having the appearance of truth; probable.",
+    "datereleasedUTC": "2017-08-28T00:02:07Z",
+    "length": 11,
+    "properWotD": "VERISIMILAR",
+    "preGit": false
+  },
+  {
+    "wotd": "picaresque",
+    "definition": "Of or relating to rogues or rascals; a type of episodic adventure of a usually roguish protagonist.",
+    "datereleasedUTC": "2017-08-25T17:30:06Z",
+    "length": 10,
+    "properWotD": "PICARESQUE",
+    "preGit": false
+  },
+  {
+    "wotd": "quaquaversal",
+    "definition": "Directed outward from a common center toward all points; dipping uniformly in all directions.",
+    "datereleasedUTC": "2017-08-23T23:55:15Z",
+    "length": 12,
+    "properWotD": "QUAQUAVERSAL",
+    "preGit": false
+  },
+  {
+    "wotd": "edacious",
+    "definition": "Excessively eager.",
+    "datereleasedUTC": "2017-08-22T00:23:54Z",
+    "length": 8,
+    "properWotD": "EDACIOUS",
+    "preGit": false
+  },
+  {
+    "wotd": "controvert",
+    "definition": "To argue about; debate; discuss.",
+    "datereleasedUTC": "2017-08-19T01:09:20Z",
+    "length": 10,
+    "properWotD": "CONTROVERT",
+    "preGit": false
+  },
+  {
+    "wotd": "retral",
+    "definition": "Located at the back; backward.",
+    "datereleasedUTC": "2017-08-16T14:34:23Z",
+    "length": 6,
+    "properWotD": "RETRAL",
+    "preGit": false
+  },
+  {
+    "wotd": "hapaxlegomenon",
+    "definition": "A word that occurs only once within a context.",
+    "datereleasedUTC": "2017-08-15T18:07:31Z",
+    "length": 14,
+    "properWotD": "HAPAX LEGOMENON",
+    "preGit": false
+  },
+  {
+    "wotd": "semanticshift",
+    "definition": "The evolution of word usage—usually to the point that the modern meaning is radically different from the original usage.",
+    "datereleasedUTC": "2017-08-13T23:19:31Z",
+    "length": 13,
+    "properWotD": "SEMANTIC SHIFT",
+    "preGit": false
+  },
+  {
+    "wotd": "propriapersona",
+    "definition": "For one's self; acting on one's own behalf.",
+    "datereleasedUTC": "2017-08-11T21:35:33Z",
+    "length": 14,
+    "properWotD": "PROPRIA PERSONA",
+    "preGit": false
+  },
+  {
+    "wotd": "excrescence",
+    "definition": "Abnormal growth or increase.",
+    "datereleasedUTC": "2017-08-10T01:05:14Z",
+    "length": 11,
+    "properWotD": "EXCRESCENCE",
+    "preGit": false
+  },
+  {
+    "wotd": "coze",
+    "definition": "To converse in a friendly way; chat.",
+    "datereleasedUTC": "2017-08-08T00:24:27Z",
+    "length": 4,
+    "properWotD": "COZE",
+    "preGit": false
+  },
+  {
+    "wotd": "consuetude",
+    "definition": "An established custom, especially one having legal force.",
+    "datereleasedUTC": "2017-08-05T21:42:55Z",
+    "length": 10,
+    "properWotD": "CONSUETUDE",
+    "preGit": false
+  },
+  {
+    "wotd": "gannetwork",
+    "definition": "A class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework.",
+    "datereleasedUTC": "2017-08-03T20:01:56Z",
+    "length": 10,
+    "properWotD": "GENERATIVE ADVERSARIAL   NETWORK (GAN)",
+    "preGit": false
+  },
+  {
+    "wotd": "anoesis",
+    "definition": "A state of mind consisting of pure sensation or emotion without cognitive content.",
+    "datereleasedUTC": "2017-08-01T22:02:42Z",
+    "length": 7,
+    "properWotD": "ANOESIS",
+    "preGit": false
+  },
+  {
+    "wotd": "quodbene",
+    "definition": "Hold fast that which is good.",
+    "datereleasedUTC": "2017-07-30T23:42:43Z",
+    "length": 8,
+    "properWotD": "QUOD BENE",
+    "preGit": false
+  },
+  {
+    "wotd": "uberous",
+    "definition": "Abundant.",
+    "datereleasedUTC": "2017-07-30T01:55:59Z",
+    "length": 7,
+    "properWotD": "UBEROUS",
+    "preGit": false
+  },
+  {
+    "wotd": "discretization",
+    "definition": "The process of replacing a continuum with a finite set of points.",
+    "datereleasedUTC": "2017-07-28T14:44:24Z",
+    "length": 14,
+    "properWotD": "DISCRETIZATION",
+    "preGit": false
+  },
+  {
+    "wotd": "startopology",
+    "definition": "A network configuration where each individual piece of a network is attached to a central node, often forming a \"star\" shape.",
+    "datereleasedUTC": "2017-07-27T00:24:22Z",
+    "length": 12,
+    "properWotD": "STAR TOPOLOGY",
+    "preGit": false
+  },
+  {
+    "wotd": "auxesis",
+    "definition": "A gradual increase in the intensity of meaning with words arranged in ascending order of force or importance.",
+    "datereleasedUTC": "2017-07-25T22:26:57Z",
+    "length": 7,
+    "properWotD": "AUXESIS",
+    "preGit": false
+  },
+  {
+    "wotd": "micropsia",
+    "definition": "A condition affecting human visual perception in which objects are perceived to be smaller than they actually are; also known as Lilliput sight and related to Alice in Wonderland Syndrome.",
+    "datereleasedUTC": "2017-07-24T00:24:15Z",
+    "length": 9,
+    "properWotD": "MICROPSIA",
+    "preGit": false
+  },
+  {
+    "wotd": "dotsam",
+    "definition": "Term that refers to all the neglected areas of the Web that are still live despite not being maintained. Dotsam includes abandoned email accounts, and forgotten blogs, websites and social media profiles.",
+    "datereleasedUTC": "2017-07-22T23:43:58Z",
+    "length": 6,
+    "properWotD": "DOTSAM",
+    "preGit": false
+  },
+  {
+    "wotd": "prelapsarian",
+    "definition": "Characteristic of or pertaining to any innocent or carefree period.",
+    "datereleasedUTC": "2017-07-21T20:30:52Z",
+    "length": 12,
+    "properWotD": "PRELAPSARIAN",
+    "preGit": false
+  },
+  {
+    "wotd": "crucible",
+    "definition": "A place or situation in which concentrated forces interact to cause or influence change or development.",
+    "datereleasedUTC": "2017-07-20T10:05:07Z",
+    "length": 8,
+    "properWotD": "CRUCIBLE",
+    "preGit": false
+  },
+  {
+    "wotd": "immortalitydrive",
+    "definition": "A large memory device which was taken to the International Space Station with the intent to preserve human DNA in a time capsule.",
+    "datereleasedUTC": "2017-07-18T13:45:19Z",
+    "length": 16,
+    "properWotD": "IMMORTALITY DRIVE",
+    "preGit": false
+  },
+  {
+    "wotd": "hypozeuxis",
+    "definition": "The use of a series of parallel clauses, each of which has a subject and predicate, as in “I came, I saw, I conquered.”",
+    "datereleasedUTC": "2017-07-16T19:22:37Z",
+    "length": 10,
+    "properWotD": "HYPOZEUXIS",
+    "preGit": false
+  },
+  {
+    "wotd": "grimthorpe",
+    "definition": "To remodel without proper knowledge or care to retain its original quality and character.",
+    "datereleasedUTC": "2017-07-14T16:11:22Z",
+    "length": 10,
+    "properWotD": "GRIMTHORPE",
+    "preGit": false
+  },
+  {
+    "wotd": "instantiate",
+    "definition": "To provide an instance of or concrete evidence in support of.",
+    "datereleasedUTC": "2017-07-14T03:01:00Z",
+    "length": 11,
+    "properWotD": "INSTANTIATE",
+    "preGit": false
+  },
+  {
+    "wotd": "glocal",
+    "definition": "Of or relating to the interconnection of global and local issues, factors, etc.",
+    "datereleasedUTC": "2017-07-13T02:43:08Z",
+    "length": 6,
+    "properWotD": "GLOCAL",
+    "preGit": false
+  },
+  {
+    "wotd": "hotdata",
+    "definition": "Data that is frequently accessed and transferred within a given system. Hot data is always in demand and in transit, not stored for long periods of time.",
+    "datereleasedUTC": "2017-07-12T00:27:10Z",
+    "length": 7,
+    "properWotD": "HOT DATA",
+    "preGit": false
+  },
+  {
+    "wotd": "leet",
+    "definition": "Used to describe formidable prowess or accomplishment",
+    "datereleasedUTC": "2017-07-09T23:44:34Z",
+    "length": 4,
+    "properWotD": "LEET",
+    "preGit": false
+  },
+  {
+    "wotd": "sortition",
+    "definition": "The action of selecting or determining something by the casting or drawing of lots.",
+    "datereleasedUTC": "2017-07-09T02:53:37Z",
+    "length": 9,
+    "properWotD": "SORTITION",
+    "preGit": false
+  },
+  {
+    "wotd": "lateralthinking",
+    "definition": "Solving problems through an indirect and creative approach, using reasoning that is not immediately obvious and involving ideas that may not be obtainable by using only traditional step-by-step logic.",
+    "datereleasedUTC": "2017-07-08T12:34:10Z",
+    "length": 15,
+    "properWotD": "LATERAL THINKING",
+    "preGit": false
+  },
+  {
+    "wotd": "vertex",
+    "definition": "The highest point; the top or apex.",
+    "datereleasedUTC": "2017-07-07T05:15:34Z",
+    "length": 6,
+    "properWotD": "VERTEX",
+    "preGit": false
+  },
+  {
+    "wotd": "penelopize",
+    "definition": "To delay or gain time to put off an undesired event.",
+    "datereleasedUTC": "2017-07-05T14:36:39Z",
+    "length": 10,
+    "properWotD": "PENELOPIZE",
+    "preGit": false
+  },
+  {
+    "wotd": "munchausentrilemma",
+    "definition": "A thought experiment used to demonstrate the impossibility of proving any truth, even in the fields of logic and mathematics.",
+    "datereleasedUTC": "2017-07-04T10:36:50Z",
+    "length": 18,
+    "properWotD": "MUNCHAUSEN TRILEMMA",
+    "preGit": false
+  },
+  {
+    "wotd": "1331",
+    "definition": "The skillful and harmonious arrangement or fitting together of the different parts of something; harmony or elegance in adaptation of parts to a whole or to each other",
+    "datereleasedUTC": "2017-07-03T00:47:16Z",
+    "length": 4,
+    "properWotD": "CONCINNITY",
+    "preGit": false
+  },
+  {
+    "wotd": "previse",
+    "definition": "To foresee or predict an event.",
+    "datereleasedUTC": "2017-07-01T20:48:32Z",
+    "length": 7,
+    "properWotD": "PREVISE",
+    "preGit": false
+  },
+  {
     "wotd": "tristful",
     "definition": "Melancholy.",
     "datereleasedUTC": "2017-06-29T10:51:16Z",
