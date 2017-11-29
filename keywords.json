@@ -451,6 +451,7 @@
         "calm",
         "lawful",
         "order",
+        "ordered",
         "orderly"
       ],
       "origin": ""
@@ -851,7 +852,8 @@
       "word": "destroy",
       "length": 7,
       "atbash": [
-        "create"
+        "create",
+        "seek"
       ],
       "origin": ""
     },
@@ -1004,7 +1006,8 @@
       "atbash": [
         "conceal",
         "deceive",
-        "hide"
+        "hide",
+        "resist"
       ],
       "origin": ""
     },
@@ -1174,6 +1177,7 @@
       "word": "forget",
       "length": 6,
       "atbash": [
+        "fire",
         "remember"
       ],
       "origin": ""
@@ -1370,7 +1374,8 @@
       "word": "hide",
       "length": 4,
       "atbash": [
-        "discover"
+        "discover",
+        "seek"
       ],
       "origin": ""
     },
@@ -2498,7 +2503,8 @@
       "word": "reduce",
       "length": 6,
       "atbash": [
-        "more"
+        "more",
+        "recycle"
       ],
       "origin": ""
     },
@@ -2566,7 +2572,8 @@
       "word": "resist",
       "length": 6,
       "atbash": [
-        "accept"
+        "accept",
+        "enlighten"
       ],
       "origin": ""
     },
@@ -2707,7 +2714,9 @@
       "word": "seek",
       "length": 4,
       "atbash": [
-        "discover"
+        "destroy",
+        "discover",
+        "hide"
       ],
       "origin": ""
     },
