@@ -1,5 +1,117 @@
 [
   {
+    "wotd": "elenctic",
+    "definition": "Refuting an argument by proving the falsehood of its conclusion.",
+    "datereleasedUTC": "2018-01-04T01:59:35Z",
+    "length": 8,
+    "properWotD": "ELENCTIC",
+    "preGit": false
+  },
+  {
+    "wotd": "auldlangsyne",
+    "definition": "Old times, especially times fondly remembered.",
+    "datereleasedUTC": "2017-12-31T16:49:06Z",
+    "length": 12,
+    "properWotD": "AULD LANG SYNE",
+    "preGit": false
+  },
+  {
+    "wotd": "schizotypy",
+    "definition": "A continuum of personality characteristics and experiences ranging from normal dissociative, imaginative states to more extreme states related to psychosis; a constellation of personality traits that are evident in some degree in everyone.",
+    "datereleasedUTC": "2017-12-28T23:30:35Z",
+    "length": 10,
+    "properWotD": "SCHIZOTYPY",
+    "preGit": false
+  },
+  {
+    "wotd": "simulatedannealing",
+    "definition": "A probabilistic technique for approximating the global optimum of a given function; useful in finding global optima in the presence of large numbers of local optima.",
+    "datereleasedUTC": "2017-12-27T02:43:22Z",
+    "length": 18,
+    "properWotD": "SIMULATED ANNEALING",
+    "preGit": false
+  },
+  {
+    "wotd": "salientstimulus",
+    "definition": "Any aspect of a stimulus that, for any of many reasons, stands out from the rest;  distinct subjective perceptual quality which makes something stand out and immediately grab our attention.",
+    "datereleasedUTC": "2017-12-24T19:10:37Z",
+    "length": 15,
+    "properWotD": "SALIENT STIMULUS",
+    "preGit": false
+  },
+  {
+    "wotd": "metaheuristic",
+    "definition": "A high-level problem-independent algorithmic framework that provides a set of guidelines or strategies to develop soultions to a problem.",
+    "datereleasedUTC": "2017-12-21T12:22:17Z",
+    "length": 13,
+    "properWotD": "METAHEURISTIC",
+    "preGit": false
+  },
+  {
+    "wotd": "geneticalgorithms",
+    "definition": "A metaheuristic that mimics the process of natural selection, and uses methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem.",
+    "datereleasedUTC": "2017-12-19T01:47:21Z",
+    "length": 17,
+    "properWotD": "GENETIC ALGORITHMS",
+    "preGit": false
+  },
+  {
+    "wotd": "apopemptic",
+    "definition": "Pertaining to leave-taking or departing.",
+    "datereleasedUTC": "2017-12-16T22:34:13Z",
+    "length": 10,
+    "properWotD": "APOPEMPTIC",
+    "preGit": false
+  },
+  {
+    "wotd": "aretaicturn",
+    "definition": "A renewed emphasis on human virtue in moral theory and ethics; a turn or move toward a virtue-centered theory or mindset.",
+    "datereleasedUTC": "2017-12-13T13:02:32Z",
+    "length": 11,
+    "properWotD": "ARETAIC TURN",
+    "preGit": false
+  },
+  {
+    "wotd": "orphic",
+    "definition": "Mystic, oracular; fascinating, entrancing.",
+    "datereleasedUTC": "2017-12-11T12:30:58Z",
+    "length": 6,
+    "properWotD": "ORPHIC",
+    "preGit": false
+  },
+  {
+    "wotd": "logomachy",
+    "definition": "A dispute about or concerning words; an argument or debate marked by the reckless or incorrect use of words; meaningless battle of words.",
+    "datereleasedUTC": "2017-12-07T14:59:05Z",
+    "length": 9,
+    "properWotD": "LOGOMACHY",
+    "preGit": false
+  },
+  {
+    "wotd": "nostrum",
+    "definition": "A scheme or favorite remedy, especially one for bringing about some social or political reform or improvement.",
+    "datereleasedUTC": "2017-11-30T23:17:43Z",
+    "length": 7,
+    "properWotD": "NOSTRUM",
+    "preGit": false
+  },
+  {
+    "wotd": "benevolence",
+    "definition": "Desire to do good to others; goodwill; charitableness.",
+    "datereleasedUTC": "2017-11-28T22:49:35Z",
+    "length": 11,
+    "properWotD": "BENEVOLENCE",
+    "preGit": false
+  },
+  {
+    "wotd": "vedette",
+    "definition": "A leading star; a sentry or a scouting party posted in an advanced position to observe the movements of an enemy.",
+    "datereleasedUTC": "2017-11-25T18:33:13Z",
+    "length": 7,
+    "properWotD": "VEDETTE",
+    "preGit": false
+  },
+  {
     "wotd": "eurhythmic",
     "definition": "Harmoniously ordered or proportioned.",
     "datereleasedUTC": "2017-11-20T00:06:15Z",
