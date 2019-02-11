@@ -198,6 +198,7 @@ hunch
 hyper
 i
 idea
+ifs
 ignore
 imint
 imperfect
